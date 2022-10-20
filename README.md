@@ -4,7 +4,7 @@ In this Java project, i secured rest api endpoints created with Spring boot fram
 
 # Instructions
 - Clone Project
-- After Cloning, in the root directory, run the following command -> java -jar spring-security-jwt-example-0.0.1-SNAPSHOT.jar
+- After Cloning, in the root directory, run the following command -> *java -jar spring-security-jwt-example-0.0.1-SNAPSHOT.jar*
 - The Spring boot application should start running and you can use a client to test the endpoints.
 
 
@@ -22,7 +22,7 @@ Endpoint - localhost:9192/account/register
 
 
 ### Authenticate a User (POST)
-This endpoint takes in username and password and returns a Json Web Token\
+This endpoint takes in username and password of registered User and returns a Json Web Token\
 Endpoint - localhost:9192/account/authenticate
 
 {
