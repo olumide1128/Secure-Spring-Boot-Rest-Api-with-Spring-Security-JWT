@@ -2,6 +2,8 @@
 
 In this Java project, i secured rest api endpoints created with Spring boot framework using Spring Security and JWT.
 
+Link - > https://youtu.be/2syYEqEz57A
+
 # Instructions
 - Clone Project
 - After Cloning, in the root directory, run the following command -> *java -jar spring-security-jwt-example-0.0.1-SNAPSHOT.jar*
