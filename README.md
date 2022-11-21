@@ -2,7 +2,7 @@
 
 In this Java project, i secured rest api endpoints created with Spring boot framework using Spring Security and JWT.
 
-Link - > https://youtu.be/2syYEqEz57A
+Demo Link - > https://youtu.be/2syYEqEz57A
 
 # Instructions
 - Clone Project
